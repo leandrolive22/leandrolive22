@@ -11,7 +11,7 @@
 
 - 💬 Me pergunte sobre **Laravel, PHP, NodeJS, Javascript, AJAX, ReactJs, VUE, AWS, GCLOUD, SQL**
 
-- 📫 Voce me acha através do e-mail **leandrollhalysson@gmail.com**
+- 📫 Você me acha através do e-mail **leandrollhalysson@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
