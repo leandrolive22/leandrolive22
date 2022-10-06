@@ -24,3 +24,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" /></a></p><br><br>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrolive22&show_icons=true&locale=en&layout=compact" alt="leandrolive22" /></p>
