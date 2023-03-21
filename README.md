@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando como Head de desenvolvimento e Tech Lead **Booking TravelTech**
 
-- 🌱 Atualmente estou aprendendo **Machine Learning, ReactJS**
+- 🌱 Atualmente estou aprendendo **Machine Learning**
 
 - 👯 Também já compartilhei com o maior Ecomerce da America Latina **Dafiti Group FashionTech**
 
