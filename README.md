@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Machine Learning, ReactJS**
 
-- 👯 Também estou compartilhando com o maior Ecomerce da America latina **Dafiti Group FashionTech**
+- 👯 Também já compartilhei com o maior Ecomerce da America latina **Dafiti Group FashionTech**
 
 - 👨‍💻 Todos meus projetos estão disponíveis em [em breve](em breve)
 
